@@ -2,10 +2,7 @@ package marina;
 
 public class Runner {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-		
+	public static void main(String[] args) {		
 		
 		Capitan capitanJuan= new Capitan("Juan Perez","5555555",4500000,5000);
 		Capitan capitanJaime= new Capitan("Jaime Villagran","5555555",4500000,300000);
