@@ -1,8 +1,6 @@
 package wallet;
 
-public class FormaDePago {
+public abstract class FormaDePago {
 
-	public void realizarPago() {
-		
-	}
+	public abstract void realizarPago();
 }
